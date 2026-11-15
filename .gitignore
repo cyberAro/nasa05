@@ -1,0 +1,28 @@
+# secrets
+key.txt
+keys.txt
+firebase-service-account.json
+.env
+.env.*
+
+# data and model outputs
+data/
+*.parquet
+*.nc
+
+# node / python
+node_modules/
+dist/
+.vite/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tif
+*.csv
+.env
+.DS_Store
+
+# firebase
+.firebase/
+firebase-debug.log
